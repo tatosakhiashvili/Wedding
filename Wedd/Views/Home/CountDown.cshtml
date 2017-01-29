@@ -1,0 +1,26 @@
+﻿@{
+	Layout = null;
+	var deadline = new DateTime(2017, 05, 04, 12, 00, 00);
+	var timeToLeft = deadline.Subtract(DateTime.Now);
+}
+
+@if(timeToLeft.Seconds < 0 || timeToLeft.Minutes < 0 || timeToLeft.Hours < 0 || timeToLeft.Days < 0) {
+	<div class="count-down-instead">
+		<img src="~/Content/images/fireworks.svg" />
+		<img src="~/Content/images/fireworks.svg" />
+		<img src="~/Content/images/fireworks.svg" />
+		<img src="~/Content/images/fireworks.svg" />
+		<img src="~/Content/images/fireworks.svg" />
+	</div>
+} else {
+	<div class="count-down" data-left-seconds="@timeToLeft.Seconds" data-left-minutes="@timeToLeft.Minutes" data-left-hours="@timeToLeft.Hours" data-left-days="@timeToLeft.Days">
+		<div class="left-days-title">დარჩა</div>
+		<div class="count-down-col days"><div class="date-caption"></div><div class="date-name">დღე</div></div>
+		<div class="time-formater">:</div>
+		<div class="count-down-col hours"><div class="date-caption"></div><div class="date-name">საათი</div></div>
+		<div class="time-formater">:</div>
+		<div class="count-down-col minutes"><div class="date-caption"></div><div class="date-name">წუთი</div></div>
+		<div class="time-formater">:</div>
+		<div class="count-down-col seconds"><div class="date-caption"></div><div class="date-name">წამი</div></div>
+	</div>
+}

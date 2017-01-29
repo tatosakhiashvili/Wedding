@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "Content/site.css",
+    "inputFile": "Content/site.less"
+  },
+  {
+    "outputFile": "Content/loader.css",
+    "inputFile": "Content/loader.less"
+  },
+  {
+    "outputFile": "Content/Layout.css",
+    "inputFile": "Content/Layout.less"
+  },
+  {
+    "outputFile": "Content/Animations.css",
+    "inputFile": "Content/Animations.less"
+  },
+  {
+    "outputFile": "Content/Fonts.css",
+    "inputFile": "Content/Fonts.less"
+  }
+]

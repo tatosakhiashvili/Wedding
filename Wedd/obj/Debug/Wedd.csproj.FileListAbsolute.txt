@@ -1,0 +1,983 @@
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\ApplicationInsights.config
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\csc.exe
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\System.Collections.Immutable.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\vbc.exe
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe.config
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Wedd.dll.config
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Wedd.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Wedd.pdb
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Antlr3.Runtime.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\EntityFramework.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\EntityFramework.SqlServer.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.Web.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.ApplicationInsights.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Web.Infrastructure.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Newtonsoft.Json.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Owin.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Helpers.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Mvc.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Optimization.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Razor.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.Deployment.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.Razor.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\WebGrease.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.Web.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.ApplicationInsights.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Helpers.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Mvc.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Optimization.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.Razor.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.Deployment.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\System.Web.WebPages.Razor.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Antlr3.Runtime.pdb
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Newtonsoft.Json.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\EntityFramework.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\EntityFramework.SqlServer.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\obj\Debug\Wedd.dll
+c:\users\besik.sakhiashvili\documents\visual studio 2015\Projects\Wedd\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\ApplicationInsights.config
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\csc.exe
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\vbc.exe
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Wedd.dll.config
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Helpers.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Mvc.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Optimization.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\WebGrease.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Helpers.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Mvc.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Optimization.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\obj\Debug\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\axxxxxxxxxxx\Wedd\Wedd\obj\Debug\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\ApplicationInsights.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\csc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\vbc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Wedd.dll.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Helpers.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Mvc.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Optimization.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\WebGrease.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Helpers.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Mvc.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Optimization.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\obj\Debug\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\New folder\Wedd\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\ApplicationInsights.config
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\csc.exe
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\vbc.exe
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Wedd.dll.config
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Helpers.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Mvc.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Optimization.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\WebGrease.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Helpers.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Mvc.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Optimization.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\obj\Debug\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\Done L\Wedd\Wedd\obj\Debug\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\ApplicationInsights.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\csc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\vbc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Wedd.dll.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Helpers.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Mvc.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Optimization.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\WebGrease.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Helpers.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Mvc.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Optimization.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\obj\Debug\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Done L\Wedd - - -\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\ApplicationInsights.config
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\csc.exe
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\vbc.exe
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Wedd.dll.config
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Wedd.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Wedd.pdb
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\EntityFramework.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Owin.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Helpers.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Mvc.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Optimization.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Razor.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\WebGrease.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Helpers.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Mvc.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Optimization.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.Razor.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\EntityFramework.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\obj\Debug\Wedd.dll
+C:\Users\TATo\Desktop\Done LS\Wedd - - -\Wedd\obj\Debug\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\ApplicationInsights.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\csc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\vbc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Wedd.dll.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Helpers.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Mvc.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Optimization.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\WebGrease.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Helpers.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Mvc.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Optimization.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\obj\Debug\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - -\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\ApplicationInsights.config
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\csc.exe
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\vbc.exe
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Wedd.dll.config
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Owin.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Helpers.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Mvc.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Optimization.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\WebGrease.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Helpers.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Mvc.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Optimization.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\obj\Debug\Wedd.dll
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\New folder (10)\Wedd - - - 2\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\ApplicationInsights.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\csc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\vbc.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Wedd.dll.config
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Wedd.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Owin.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Helpers.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Mvc.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Optimization.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\WebGrease.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Helpers.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Mvc.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Optimization.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\obj\Debug\Wedd.dll
+C:\Users\besik.sakhiashvili\Desktop\LOP\Wedd - - - 22\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\ApplicationInsights.config
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\csc.exe
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\vbc.exe
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\VBCSCompiler.exe
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Wedd.dll.config
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Wedd.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Wedd.pdb
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Antlr3.Runtime.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\EntityFramework.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\EntityFramework.SqlServer.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.Web.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Newtonsoft.Json.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Owin.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Helpers.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Mvc.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Optimization.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Razor.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Razor.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\WebGrease.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.Web.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Helpers.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Mvc.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Optimization.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.Razor.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Razor.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Antlr3.Runtime.pdb
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Newtonsoft.Json.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\EntityFramework.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\EntityFramework.SqlServer.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\obj\Debug\Wedd.dll
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\obj\Debug\Wedd.pdb
+C:\Users\TATo\Desktop\Wedd - - - 33\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\ApplicationInsights.config
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\csc.exe
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\System.Collections.Immutable.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\vbc.exe
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\VBCSCompiler.exe
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\roslyn\VBCSCompiler.exe.config
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Wedd.dll.config
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Wedd.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Wedd.pdb
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Antlr3.Runtime.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\EntityFramework.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\EntityFramework.SqlServer.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.Web.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.WindowsServer.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.ApplicationInsights.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Google.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Web.Infrastructure.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Newtonsoft.Json.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Helpers.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Mvc.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Optimization.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Razor.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Deployment.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Razor.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\WebGrease.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.Web.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AI.WindowsServer.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.ApplicationInsights.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Helpers.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Mvc.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Optimization.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.Razor.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Deployment.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\System.Web.WebPages.Razor.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Antlr3.Runtime.pdb
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Newtonsoft.Json.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\EntityFramework.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\EntityFramework.SqlServer.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Google.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\obj\Debug\Wedd.dll
+E:\DD EE SS KK TT OO PP\Wedd - - - 33\Wedd\obj\Debug\Wedd.pdb
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\ApplicationInsights.config
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\csc.exe
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\System.Collections.Immutable.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\System.Reflection.Metadata.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\vbc.exe
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\roslyn\VBCSCompiler.exe.config
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Wedd.dll.config
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Wedd.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Wedd.pdb
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Antlr3.Runtime.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\EntityFramework.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\EntityFramework.SqlServer.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.Web.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.ApplicationInsights.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Web.Infrastructure.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Newtonsoft.Json.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Owin.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Helpers.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Mvc.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Optimization.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Razor.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.Deployment.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.Razor.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\WebGrease.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.DependencyCollector.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.Web.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AI.WindowsServer.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.ApplicationInsights.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Helpers.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Mvc.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Optimization.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.Razor.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.Deployment.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\System.Web.WebPages.Razor.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Antlr3.Runtime.pdb
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Newtonsoft.Json.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\EntityFramework.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\EntityFramework.SqlServer.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Google.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\obj\Debug\Wedd.csprojResolveAssemblyReference.cache
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\obj\Debug\Wedd.dll
+E:\DD EE SS KK TT OO PP\Wedd\Wedd\obj\Debug\Wedd.pdb

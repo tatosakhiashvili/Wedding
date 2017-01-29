@@ -1,0 +1,49 @@
+﻿@using Wedd.Models.Home
+@model GuestViewModel
+
+@{
+	var key = "AIzaSyCZzocys-NTrxKiYwltwWfB4C2i5DD6FPI";
+	var apiKey = "https://maps.googleapis.com/maps/api/js?language=en&key=" + key + "&callback=initMap";
+	var addressUrl = "https://www.google.com/maps/@41.890855,44.762627,18z?hl=en";
+}
+
+<section class="ceremony">
+	<div class="time-title">5 maisi, 15:00 saaTi</div>
+	<div class="right-description-container">
+		<div class="title">wm. giorgis saxelobis eklesia</div>
+		<div class="description-text">saguramo</div>
+		<div class="logos-container">
+			<img src="~/Content/images/Couple/wedding-couple-one.svg" />
+		</div>
+	</div>
+	<div class="left-image-container">
+		<div id="map" style="width:100%; height:100%;"></div>
+	</div>
+	<div class="map-address-link">
+		misamarTi: <a target="_blank" href="@addressUrl">saguramo, wm. giorgis saxelobis eklesia</a>
+	</div>
+
+	<div class="clearfix"></div>
+	<div class="random-image-container">
+		<img src="@Model.RandomImage" />
+	</div>
+</section>
+
+<script>
+	function initMap() {
+		setTimeout(function () {
+			var zoomPoint = { lat: 41.890855, lng: 44.7623321 };
+
+			var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 18,
+				center: zoomPoint
+			});
+
+			var marker = new google.maps.Marker({
+				position: zoomPoint,
+				map: map,
+			});
+		}, 300);
+	}
+</script>
+<script async defer src="@apiKey"></script>

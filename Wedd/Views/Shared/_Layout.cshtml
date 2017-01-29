@@ -1,0 +1,102 @@
+﻿@{
+	string userId = ViewBag.userId;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>შაბათს, 5 მაისს, 18:00 საათზე გეპატიჟებით "Goga და Tamuna"-ს ქორწილში</title>
+	<link href="http://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet" type="text/css">
+	<link href="~/Content/gallerystyle.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
+	
+	<meta property="og:image" content="http://gogaandtamunawedding.com/Content/images/Gallery/10.jpg" />
+	<meta property="og:image:height" content="183" />
+	<meta property="og:image:width" content="275" />
+
+	<link href="~/Content/Fonts.css" rel="stylesheet" />
+	<link href="~/Content/Animations.css" rel="stylesheet" />
+	<link href="~/Content/Layout.css" rel="stylesheet" />
+	<link href="~/Content/loader.css" rel="stylesheet" />
+
+</head>
+
+<body onload="hideLoader()">
+	<section class="main-container">
+		<header class="menu-container">
+			<a href="@Url.Action("Index", "Home", new { id = userId })" class="pulse-menu">
+				<img src="~/Content/images/MenuIcons/house.svg" />
+			</a>
+
+			<a href="@Url.Action("InvitationCard", "Home", new { id = userId })" class="pulse-menu">
+				<img src="~/Content/images/MenuIcons/invitation.svg" />
+			</a>
+
+			@if(!string.IsNullOrEmpty(userId)) {
+				<a href="@Url.Action("GuestTable", "Home", new { id = userId })" class="pulse-menu">
+					<img src="~/Content/images/MenuIcons/table.svg" />
+				</a>
+			}
+
+			<a href="@Url.Action("Ceremony", "Home", new { id = userId })" class="pulse-menu">
+				<img src="~/Content/images/MenuIcons/bell.svg" />
+			</a>
+
+			<a href="@Url.Action("Restaurant", "Home", new { id = userId })" class="pulse-menu">
+				<img src="~/Content/images/MenuIcons/dinner.svg" />
+			</a>
+
+			<div class="menu-container">
+
+			</div>
+		</header>
+		@RenderBody()
+	</section>
+
+	<div class="countdown-container">
+		@{ Html.RenderAction("CountDown", "Home", new { id = userId }); }
+	</div>
+
+	<div class="loader" id="page-loader">
+		<div class="loading-wrapper" style="visibility: visible; opacity: 1;">
+			<div class="loader-heart loader-heart1"><img src="~/Content/images/intro-heart.png" alt=""></div>
+			<div class="loader-heart loader-heart2"><img src="~/Content/images/intro-heart.png" alt=""></div>
+			<div class="loader-heart loader-heart3"><img src="~/Content/images/intro-heart.png" alt=""></div>
+		</div>
+	</div>
+
+	@Scripts.Render("~/bundles/jquery")
+	@RenderSection("scripts", required: false)
+	<script src="~/Scripts/Pages/wedding.js"></script>
+	<script>
+		$(function () {
+			wedding.initPage();
+
+			var countDownObject = $('.count-down');
+			wedding.initializeCountDown(countDownObject.data('left-seconds'), countDownObject.data('left-minutes'), countDownObject.data('left-hours'), countDownObject.data('left-days'));
+
+		})
+
+		function hideLoader() {
+			setTimeout(function () {
+
+				$(".menu-container").animate({ opacity: 1 }, {
+					duration: 800,
+					complete: function () {
+						//$('#page-loader').hide();
+					}
+				});
+
+				$("#page-loader").animate({ opacity: 0 }, {
+					duration: 1500,
+					complete: function () {
+						$('#page-loader').hide();
+					}
+				});
+			}, 2000);
+		}
+	</script>
+</body>
+</html>

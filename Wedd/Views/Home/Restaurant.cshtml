@@ -1,0 +1,50 @@
+﻿@using Wedd.Models.Home
+@model GuestViewModel
+
+@{
+	var key = "AIzaSyDW4JIQ3Li0lAgSMCsa_SAsIpJOchw7qNM";
+	var apiKey = "https://maps.googleapis.com/maps/api/js?language=en&key=" + key + "&callback=initMap";
+	var addressUrl = "https://www.google.com/maps/place/Barakoni+Restaurant/@41.7974641,44.7712017,20z/data=!4m5!3m4!1s0x0:0xe789179d0208dbb5!8m2!3d41.797498!4d44.771269?hl=en";
+}
+
+<section class="ceremony">
+	<div class="time-title">5 maisi, 18:00 saaTi</div>
+	<div class="right-description-container">
+		<div class="title">restorani barakoni</div>
+		<div class="description-text">aRmaSeneblis xeivani, me-13 km</div>
+
+		<div class="logos-container">
+			<img src="~/Content/images/Couple/wedding-couple-two.svg" />
+		</div>
+	</div>
+	<div class="left-image-container">
+		@*<img src="~/Content/images/table.svg" />*@
+		<div id="map" style="width:100%; height:100%;"></div>
+	</div>
+	<div class="map-address-link">
+		misamarTi: <a target="_blank" href="@addressUrl">aRmaSeneblis xeivani, me 13-e kilometri (restorani barakoni)</a>
+	</div>
+	<div class="clearfix"></div>
+	<div class="random-image-container">
+		<img src="@Model.RandomImage" />
+	</div>
+</section>
+
+<script>
+	function initMap() {
+		setTimeout(function () {
+			var zoomPoint = { lat: 41.7974978, lng: 44.7712693 };
+
+			var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 18,
+				center: zoomPoint
+			});
+
+			var marker = new google.maps.Marker({
+				position: zoomPoint,
+				map: map,
+			});
+		}, 300);
+	}
+</script>
+<script async defer src="@apiKey"></script>

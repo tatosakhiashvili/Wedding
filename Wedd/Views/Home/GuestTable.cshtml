@@ -1,0 +1,16 @@
+﻿@using Wedd.Models.Home
+@model GuestViewModel
+
+<section class="guest-table">
+	<div class="table-container">
+		<img src="~/Content/images/table.svg" />
+	</div>
+	<div class="table-number-container">
+		<div class="invitation-text">Zvirfaso @Model.GuestName, Tqveni magidis nomeria</div>
+		<div class="table-number-text">@Model.TableNo</div>
+	</div>
+	<div class="clearfix"></div>
+	<div class="random-image-container">
+		<img src="@Model.RandomImage" />
+	</div>
+</section>

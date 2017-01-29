@@ -1,0 +1,43 @@
+﻿@using Wedd.Models.Home
+@model GuestViewModel
+
+@{
+	var galleryImages = new Dictionary<string, string> { };
+	galleryImages.Add("1.jpg", Url.Action("Ceremony", "Home", new { id = Model.Id }));
+	galleryImages.Add("2.jpg", Url.Action("Restaurant", "Home", new { id = Model.Id }));
+	galleryImages.Add("3.jpg", Url.Action("Restaurant", "Home", new { id = Model.Id }));
+	galleryImages.Add("4.jpg", Url.Action("Restaurant", "Home", new { id = Model.Id }));
+	galleryImages.Add("12.jpg", Url.Action("Ceremony", "Home", new { id = Model.Id }));
+	galleryImages.Add("7.jpg", Url.Action("InvitationCard", "Home", new { id = Model.Id }));
+	galleryImages.Add("8.jpg", Url.Action("InvitationCard", "Home", new { id = Model.Id }));
+	galleryImages.Add("9.jpg", Url.Action("Ceremony", "Home", new { id = Model.Id }));
+	galleryImages.Add("10.jpg", Url.Action("InvitationCard", "Home", new { id = Model.Id }));
+	galleryImages.Add("11.jpg", Url.Action("Ceremony", "Home", new { id = Model.Id }));
+	galleryImages.Add("6.jpg", Url.Action("InvitationCard", "Home", new { id = Model.Id }));
+	galleryImages.Add("5.jpg", Url.Action("InvitationCard", "Home", new { id = Model.Id }));
+}
+
+<section class="gallery">
+	<ul class="pics">
+		@foreach(var imagePath in galleryImages) {
+			<li><a data-red-url="@imagePath.Value"><img style="max-width:250px" src="@string.Format("Content/images/Gallery/{0}", imagePath.Key)" /></a></li>
+		}
+	</ul>
+</section>
+
+@section scripts{
+	<script>
+		$(function () {
+			$('.pics li a').click(function () {
+				var redirectUrl = $(this).data('red-url');
+				setTimeout(function () {
+					window.location.href = redirectUrl;
+				}, $(window).width() <= 1255 ? 500 : 1);
+			});
+
+			setTimeout(function () {
+				$('.pics').addClass('animated');
+			}, 2250);
+		})
+	</script>
+}

@@ -1,0 +1,558 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+  background-image: url('images/rsvp-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body .main-container {
+  display: none;
+  width: 850px;
+  padding: 100px 40px 100px;
+  margin: 100px auto 0;
+  position: relative;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-top-right-radius: 0;
+}
+body .main-container header {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  right: -60px;
+  width: 60px;
+  text-align: center;
+  /*padding: 10px;*/
+  background-color: rgba(255, 255, 255, 0.8);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+body .main-container header .pulse-menu {
+  margin: 7px auto;
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 0.1px solid #cca92c;
+  /*background: lighten(#DB7E14, 50%);*/
+  /*background: #cca92c;*/
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(204, 169, 44, 0.6);
+  animation: pulse-menu 2s infinite;
+  position: relative;
+}
+body .main-container header .pulse-menu img {
+  width: 25px;
+  margin: 6px auto;
+  display: block;
+}
+body .main-container header .pulse-menu .pulse-menu-stick-container {
+  display: none;
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 8px;
+  left: 7px;
+}
+body .main-container header .pulse-menu .pulse-menu-stick-container .pulse-menu-stick {
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  margin-top: 2px;
+  border-radius: 5px;
+}
+body .main-container header .pulse-menu .pulse-menu-stick-container .pulse-menu-stick.one {
+  margin-top: 1px;
+}
+body .main-container header .pulse-menu .pulse-menu-stick-container .pulse-menu-stick.two {
+  margin-top: 2px;
+}
+body .main-container header .pulse-menu .pulse-menu-stick-container .pulse-menu-stick.three {
+  margin-top: 2px;
+}
+body .main-container header .pulse-menu:hover {
+  animation: none;
+}
+body .main-container header .menu-container {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /*background-color: red;*/
+}
+body .main-container .gallery {
+  height: 400px;
+}
+body .main-container .guest-table {
+  width: 100%;
+}
+body .main-container .guest-table .table-container {
+  width: 40%;
+  display: inline-block;
+  float: left;
+}
+body .main-container .guest-table .table-container img {
+  width: 250px;
+}
+body .main-container .guest-table .table-number-container {
+  width: 60%;
+  display: inline-block;
+  float: right;
+  text-align: center;
+  color: #c7a22b;
+}
+body .main-container .guest-table .table-number-container .invitation-text {
+  font-family: barata;
+  font-size: 30px;
+  margin-top: 25px;
+}
+body .main-container .guest-table .table-number-container .table-number-text {
+  font-family: 'Great Vibes';
+  font-size: 110px;
+}
+body .main-container .guest-table .random-image-container {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+body .main-container .guest-table .random-image-container img {
+  width: 50px;
+}
+body .main-container .ceremony,
+body .main-container .restaurant {
+  width: 100%;
+}
+body .main-container .ceremony .time-title,
+body .main-container .restaurant .time-title {
+  width: 100%;
+  text-align: center;
+  margin: -40px auto 40px;
+  font-family: barata;
+  font-size: 30px;
+  line-height: 40px;
+  color: #c7a22b;
+}
+body .main-container .ceremony .left-image-container,
+body .main-container .restaurant .left-image-container {
+  width: 50%;
+  height: 300px;
+  display: inline-block;
+  float: left;
+}
+body .main-container .ceremony .left-image-container img,
+body .main-container .restaurant .left-image-container img {
+  width: 250px;
+}
+body .main-container .ceremony .map-address-link,
+body .main-container .restaurant .map-address-link {
+  display: none;
+}
+body .main-container .ceremony .right-description-container,
+body .main-container .restaurant .right-description-container {
+  width: 50%;
+  display: inline-block;
+  float: right;
+  text-align: center;
+  color: #c7a22b;
+}
+body .main-container .ceremony .right-description-container .title,
+body .main-container .restaurant .right-description-container .title {
+  font-family: barata;
+  font-size: 30px;
+  line-height: 40px;
+}
+body .main-container .ceremony .right-description-container .description-text,
+body .main-container .restaurant .right-description-container .description-text {
+  margin-top: 15px;
+  font-family: barata;
+  font-size: 20px;
+}
+body .main-container .ceremony .right-description-container .logos-container,
+body .main-container .restaurant .right-description-container .logos-container {
+  margin-top: 60px;
+}
+body .main-container .ceremony .right-description-container .logos-container img,
+body .main-container .restaurant .right-description-container .logos-container img {
+  width: 150px;
+}
+body .main-container .ceremony .random-image-container,
+body .main-container .restaurant .random-image-container {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+body .main-container .ceremony .random-image-container img,
+body .main-container .restaurant .random-image-container img {
+  width: 35px;
+}
+body .main-container .invitation-card .inviter-card-title {
+  font-family: 'Great Vibes';
+  font-size: 60px;
+  text-align: center;
+  color: #D4AF37;
+}
+body .main-container .invitation-card .inviter-card-text {
+  margin-top: 20px;
+  font-family: barata;
+  font-size: 25px;
+  text-align: center;
+  color: #c7a22b;
+}
+body .main-container .invitation-card .inviter-card-text.second-line {
+  margin-top: 5px;
+}
+body .main-container .invitation-card .invitation-card-logo {
+  text-align: center;
+  width: 100%;
+  margin: 50px auto -40px;
+  display: block;
+}
+body .main-container .invitation-card .invitation-card-logo img {
+  width: 25px;
+}
+body .countdown-container {
+  /*display: none;*/
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  width: 400px;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+body .countdown-container .count-down-instead {
+  text-align: center;
+}
+body .countdown-container .count-down-instead img {
+  width: 55px;
+  margin: 5px;
+}
+body .countdown-container .count-down {
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+body .countdown-container .count-down .left-days-title {
+  display: block;
+  font-size: 18px;
+  color: #D4AF37;
+  font-family: 'arial';
+}
+body .countdown-container .count-down .time-formater {
+  display: inline-block;
+  color: #D4AF37;
+  font-size: 60px;
+  width: 40px;
+  margin-top: -5px;
+  vertical-align: top;
+  margin-left: 8px;
+}
+body .countdown-container .count-down .count-down-col {
+  width: 50px;
+  border-radius: 40px;
+  display: inline-block;
+  font-size: 60px;
+  color: #D4AF37;
+  font-family: 'Great Vibes';
+}
+body .countdown-container .count-down .count-down-col .date-name {
+  font-size: 15px;
+  margin-top: -16px;
+}
+.clearfix {
+  clear: both;
+}
+@media all and (min-width: 719px) and (max-width: 1255px) {
+  body {
+    background-position: center top;
+    background-size: auto;
+  }
+  body .main-container {
+    width: 80%;
+    padding: 5%;
+    margin: 100px auto -5px;
+    border-radius: 5px;
+  }
+  body .main-container header {
+    opacity: 0;
+    right: 0;
+    left: 0;
+    top: -80px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  body .main-container header .pulse-menu {
+    animation: none;
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+  }
+  body .main-container header .pulse-menu img {
+    width: 35px;
+    margin: 8px auto;
+  }
+  body .main-container .guest-table .table-container {
+    width: 100%;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  body .main-container .guest-table .table-container img {
+    width: 180px;
+  }
+  body .main-container .guest-table .table-number-container {
+    width: 100%;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  body .main-container .guest-table .table-number-container .invitation-text {
+    font-size: 25px;
+  }
+  body .main-container .guest-table .table-number-container .table-number-text {
+    font-size: 70px;
+  }
+  body .main-container .ceremony .time-title,
+  body .main-container .restaurant .time-title {
+    margin: 0px auto 40px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  body .main-container .ceremony .left-image-container,
+  body .main-container .restaurant .left-image-container {
+    width: 100%;
+    height: 300px;
+    display: block;
+    float: none;
+    text-align: center;
+    margin-top: 10px;
+  }
+  body .main-container .ceremony .left-image-container #map,
+  body .main-container .restaurant .left-image-container #map {
+    /*border: 1px solid black !important;
+						border-radius: 10px;*/
+  }
+  body .main-container .ceremony .left-image-container img,
+  body .main-container .restaurant .left-image-container img {
+    width: 180px;
+  }
+  body .main-container .ceremony .map-address-link,
+  body .main-container .restaurant .map-address-link {
+    display: block;
+    font-family: barata;
+    color: #D4AF37;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  body .main-container .ceremony .map-address-link a,
+  body .main-container .restaurant .map-address-link a {
+    text-decoration: none;
+    color: #D4AF37;
+  }
+  body .main-container .ceremony .right-description-container,
+  body .main-container .restaurant .right-description-container {
+    width: 100%;
+    display: block;
+    float: none;
+  }
+  body .main-container .ceremony .right-description-container .title,
+  body .main-container .restaurant .right-description-container .title {
+    font-family: barata;
+    font-size: 25px;
+    line-height: 40px;
+  }
+  body .main-container .ceremony .right-description-container .description-text,
+  body .main-container .restaurant .right-description-container .description-text {
+    margin-top: 15px;
+    font-family: barata;
+    font-size: 20px;
+  }
+  body .main-container .ceremony .right-description-container .logos-container,
+  body .main-container .restaurant .right-description-container .logos-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  body .main-container .ceremony .right-description-container .logos-container img,
+  body .main-container .restaurant .right-description-container .logos-container img {
+    width: 100px;
+  }
+  body .main-container .invitation-card .inviter-card-title {
+    font-size: 40px;
+  }
+  body .main-container .invitation-card .inviter-card-text {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  body .main-container .invitation-card .invitation-card-logo {
+    margin: 30px auto 0;
+  }
+  body .countdown-container {
+    width: 80%;
+    padding: 5%;
+    margin-bottom: 25px;
+  }
+  body .countdown-container .count-down .left-days-title {
+    font-size: 17px;
+    margin-top: -10px;
+  }
+  body .countdown-container .count-down .time-formater {
+    font-size: 40px;
+    width: 30px;
+  }
+  body .countdown-container .count-down .count-down-col {
+    width: 40px;
+    font-size: 40px;
+  }
+  body .countdown-container .count-down .count-down-col .date-name {
+    font-size: 12px;
+    margin-top: -16px;
+  }
+}
+@media all and (max-width: 718px) {
+  body {
+    background-position: center top;
+    background-size: auto;
+  }
+  body .main-container {
+    width: 80%;
+    padding: 5%;
+    margin: 100px auto -5px;
+    border-radius: 5px;
+  }
+  body .main-container header {
+    opacity: 0;
+    right: 0;
+    left: 0;
+    top: -80px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  body .main-container header .pulse-menu {
+    animation: none;
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+  }
+  body .main-container header .pulse-menu img {
+    width: 35px;
+    margin: 8px auto;
+  }
+  body .main-container .guest-table .table-container {
+    width: 100%;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  body .main-container .guest-table .table-container img {
+    width: 180px;
+  }
+  body .main-container .guest-table .table-number-container {
+    width: 100%;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  body .main-container .guest-table .table-number-container .invitation-text {
+    font-size: 25px;
+  }
+  body .main-container .guest-table .table-number-container .table-number-text {
+    font-size: 70px;
+  }
+  body .main-container .ceremony .time-title,
+  body .main-container .restaurant .time-title {
+    margin: 0px auto 30px;
+    font-size: 26px;
+    line-height: 36px;
+  }
+  body .main-container .ceremony .left-image-container,
+  body .main-container .restaurant .left-image-container {
+    width: 100%;
+    height: 300px;
+    display: block;
+    float: none;
+    text-align: center;
+    margin-top: 10px;
+  }
+  body .main-container .ceremony .left-image-container #map,
+  body .main-container .restaurant .left-image-container #map {
+    /*border: 1px solid black !important;
+						border-radius: 10px;*/
+  }
+  body .main-container .ceremony .left-image-container img,
+  body .main-container .restaurant .left-image-container img {
+    width: 180px;
+  }
+  body .main-container .ceremony .map-address-link,
+  body .main-container .restaurant .map-address-link {
+    display: block;
+    font-family: barata;
+    color: #D4AF37;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  body .main-container .ceremony .map-address-link a,
+  body .main-container .restaurant .map-address-link a {
+    text-decoration: none;
+    color: #D4AF37;
+  }
+  body .main-container .ceremony .right-description-container,
+  body .main-container .restaurant .right-description-container {
+    width: 100%;
+    display: block;
+    float: none;
+  }
+  body .main-container .ceremony .right-description-container .title,
+  body .main-container .restaurant .right-description-container .title {
+    font-family: barata;
+    font-size: 25px;
+    line-height: 40px;
+  }
+  body .main-container .ceremony .right-description-container .description-text,
+  body .main-container .restaurant .right-description-container .description-text {
+    margin-top: 15px;
+    font-family: barata;
+    font-size: 20px;
+  }
+  body .main-container .ceremony .right-description-container .logos-container,
+  body .main-container .restaurant .right-description-container .logos-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  body .main-container .ceremony .right-description-container .logos-container img,
+  body .main-container .restaurant .right-description-container .logos-container img {
+    width: 100px;
+  }
+  body .main-container .invitation-card .inviter-card-title {
+    font-size: 40px;
+  }
+  body .main-container .invitation-card .inviter-card-text {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  body .main-container .invitation-card .invitation-card-logo {
+    margin: 30px auto 0;
+  }
+  body .countdown-container {
+    width: 80%;
+    padding: 5%;
+    margin-bottom: 25px;
+  }
+  body .countdown-container .count-down .left-days-title {
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  body .countdown-container .count-down .time-formater {
+    font-size: 40px;
+    width: 30px;
+  }
+  body .countdown-container .count-down .count-down-col {
+    width: 40px;
+    font-size: 40px;
+  }
+  body .countdown-container .count-down .count-down-col .date-name {
+    font-size: 12px;
+    margin-top: -16px;
+  }
+}
